@@ -62,6 +62,7 @@ const SelectCommodity = () => {
       ]}
       onPress={() => setSelectedCommodity(item.id)}
     >
+      {/* Displays image of commodity and the name */}
       <Image source={item.image} style={styles.commodityImage} />
       <Text style={styles.commodityName}>{item.name}</Text>
     </TouchableOpacity>

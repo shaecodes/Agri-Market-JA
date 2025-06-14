@@ -2,6 +2,7 @@ import React from "react";
 import { View, Text, StyleSheet, ScrollView } from "react-native";
 import PriceCard from "../components/prices/Prices";
 import images  from "../constants/images"; 
+import NativeMap from "../components/map/Map"
 import { COLORS, SIZES } from "../constants";
 import SearchBar from "../components/search/Search";
 import Carousel from "../components/carousel/Carousel";
@@ -20,6 +21,7 @@ const HomePage = () => {
         highestPrice={550}
         lowestPrice={330}
       />
+      <NativeMap/>
       
     </ScrollView>
   );
