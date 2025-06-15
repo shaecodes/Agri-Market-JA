@@ -2,37 +2,29 @@ import React, { useState } from "react";
 import { View, TextInput, StyleSheet } from "react-native";
 import { MapPinned } from "lucide-react-native";
 import { COLORS, SHADOWS } from "../../constants";
+import SearchBar from "../../components/search/Search";
+import SelectCommodity from "../../components/selectcommodity/SelectCommodity";
 
-const CompareSearchBar = () => {
-  const [location1, setLocation1] = useState("");
-  const [location2, setLocation2] = useState("");
-
+const CompareSearchBar = ({
+  selectedLocation1,
+  setSelectedLocation1,
+  selectedLocation2,
+  setSelectedLocation2,
+}) => {
   return (
     <View style={styles.wrapper}>
-      <View style={styles.searchbar}>
-        <MapPinned color={COLORS.primary} size={20} style={styles.icon} />
-        <TextInput
-          placeholder="Search Location 1"
-          placeholderTextColor="#999"
-          style={styles.input}
-          value={location1}
-          onChangeText={setLocation1}
-        />
-      </View>
-
-      <View style={styles.searchbar}>
-        <MapPinned color={COLORS.primary} size={20} style={styles.icon} />
-        <TextInput
-          placeholder="Search Location 2"
-          placeholderTextColor="#999"
-          style={styles.input}
-          value={location2}
-          onChangeText={setLocation2}
-        />
-      </View>
+      <SearchBar
+        selectedLocation={selectedLocation1}
+        setSelectedLocation={setSelectedLocation1}
+      />
+      <SearchBar
+        selectedLocation={selectedLocation2}
+        setSelectedLocation={setSelectedLocation2}
+      />
     </View>
   );
 };
+
 
 export default CompareSearchBar;
 

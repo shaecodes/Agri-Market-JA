@@ -12,10 +12,11 @@ const HomePage = () => {
   const [selectedCommodity, setSelectedCommodity] = useState(null);
   const [selectedLocation, setSelectedLocation] = useState(null);
   const [showPrices, setShowPrices] = useState(false);
+  const [showResults, setShowResults] = useState(false);
 
   const handleButtonPress = () => {
     console.log("Do Action for:", selectedCommodity, selectedLocation);
-    setShowPrices(true);
+    setShowResults(true);
   };
 
   return (
@@ -37,15 +38,15 @@ const HomePage = () => {
         </TouchableOpacity>
       )}
 
-      {showPrices && (
+      {showResults && (
         <>
           <PriceCard
-            imageUrl={images.ginger}
-            locationName="Coronation Market"
-            highestPrice={550}
-            lowestPrice={330}
+            imageUrl={selectedCommodity.image}
+            name = {selectedCommodity.name}
+            locationName={selectedLocation.name}
+            price={550}
           />
-          <NativeMap />
+
         </>
       )}
     </ScrollView>
@@ -60,6 +61,7 @@ const styles = StyleSheet.create({
     flexGrow: 1,
     backgroundColor: COLORS.white,
     alignItems: "center",
+    paddingBottom: 200,
   },
   title: {
     fontSize: SIZES.large,

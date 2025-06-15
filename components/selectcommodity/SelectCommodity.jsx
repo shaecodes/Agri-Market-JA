@@ -53,17 +53,18 @@ const commodities = [
 
 const SelectCommodity = ({ selectedCommodity, setSelectedCommodity }) => {
   const renderItem = ({ item }) => (
-    <TouchableOpacity
-      style={[
-        styles.commodityCard,
-        selectedCommodity === item.id && styles.selectedCard
-      ]}
-      onPress={() => setSelectedCommodity(item.id)}
-    >
-      <Image source={item.image} style={styles.commodityImage} />
-      <Text style={styles.commodityName}>{item.name}</Text>
-    </TouchableOpacity>
-  );
+  <TouchableOpacity
+    style={[
+      styles.commodityCard,
+      selectedCommodity?.id === item.id && styles.selectedCard
+    ]}
+    onPress={() => setSelectedCommodity(item)}
+  >
+    <Image source={item.image} style={styles.commodityImage} />
+    <Text style={styles.commodityName}>{item.name}</Text>
+  </TouchableOpacity>
+);
+
 
   return (
     <View style={styles.container}>

@@ -5,16 +5,16 @@ import { COLORS, SHADOWS } from "../../constants";
 
 interface PriceCardProps {
   imageUrl: any; 
+  name: string;
   locationName: string;
-  highestPrice: number;
-  lowestPrice: number;
+  price: number;
 }
 
 const PriceCard: React.FC<PriceCardProps> = ({
   imageUrl,
+  name,
   locationName,
-  highestPrice,
-  lowestPrice,
+  price,
 }) => {
   return (
     <View style={styles.card}>
@@ -22,7 +22,7 @@ const PriceCard: React.FC<PriceCardProps> = ({
       <View style={styles.header}>
         <Image source={imageUrl} style={styles.image} />
         <Text style={styles.title}>
-          Ginger at <Text style={styles.location}>{locationName}</Text>
+          <Text style={styles.location}>{name}</Text> at <Text style={styles.location}>{locationName}</Text>
         </Text>
       </View>
 
@@ -32,7 +32,7 @@ const PriceCard: React.FC<PriceCardProps> = ({
         <View style={styles.priceBox}>
           <Text style={styles.label}>Highest Price</Text>
           <View style={[styles.priceTag, styles.greenBackground]}>
-            <Text style={styles.greenPrice}>${highestPrice.toFixed(2)}</Text>
+            <Text style={styles.greenPrice}>${price.toFixed(2)}</Text>
             <ArrowUpRight size={18} color="#15803d" />
             <View style={[styles.bar, { height: 16, backgroundColor: "#15803d" }]} />
             <View style={[styles.bar, { height: 24, backgroundColor: "#22c55e" }]} />
@@ -40,17 +40,6 @@ const PriceCard: React.FC<PriceCardProps> = ({
           </View>
         </View>
 
-        {/* Lowest Price */}
-        <View style={styles.priceBox}>
-          <Text style={styles.label}>Lowest Price</Text>
-          <View style={[styles.priceTag, styles.redBackground]}>
-            <Text style={styles.redPrice}>${lowestPrice.toFixed(2)}</Text>
-            <ArrowDownRight size={18} color="#dc2626" />
-            <View style={[styles.bar, { height: 16, backgroundColor: "#dc2626" }]} />
-            <View style={[styles.bar, { height: 24, backgroundColor: "#f87171" }]} />
-            <View style={[styles.bar, { height: 12, backgroundColor: "#fca5a5" }]} />
-          </View>
-        </View>
       </View>
     </View>
   );
@@ -65,7 +54,9 @@ const styles = StyleSheet.create({
     padding: 16,
     width: "100%",
     maxWidth: 370,
-
+    alignItems: "center",
+    marginTop: 30,
+    ...SHADOWS.medium,
   },
   header: {
     flexDirection: "row",
@@ -82,6 +73,9 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: "600",
     color: "#1f2937",
+    flexShrink: 1,
+    flexWrap: "wrap",
+    maxWidth: "80%",
   },
   location: {
     color: "#16a34a",
@@ -92,7 +86,6 @@ const styles = StyleSheet.create({
   },
   priceBox: {
     alignItems: "center",
-    
   },
   label: {
     color: "#6b7280",

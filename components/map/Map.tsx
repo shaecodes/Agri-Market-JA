@@ -21,25 +21,27 @@ const locations = [
   { id: 17, name: "PORTMORE Hi-Lo", lat: 17.9613, lng: -76.8750 },
 ];
 
-const NativeMap = () => {
+const NativeMap = ({ selectedLocation }) => {
   return (
     <View style={styles.mapContainer}>
       <MapView
         style={styles.map}
-        initialRegion={{
-          latitude: 18.012,
-          longitude: -76.797,
-          latitudeDelta: 0.2,
-          longitudeDelta: 0.2,
+        region={{
+          latitude: selectedLocation?.lat || 17.9911,
+          longitude: selectedLocation?.lng || -76.7923,
+          latitudeDelta: 0.05,
+          longitudeDelta: 0.05,
         }}
       >
-        {locations.map((location) => (
+        {selectedLocation && (
           <Marker
-            key={location.id}
-            coordinate={{ latitude: location.lat, longitude: location.lng }}
-            title={location.name}
+            coordinate={{
+              latitude: selectedLocation.lat,
+              longitude: selectedLocation.lng,
+            }}
+            title={selectedLocation.name}
           />
-        ))}
+        )}
       </MapView>
     </View>
   );

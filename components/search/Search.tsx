@@ -39,7 +39,7 @@ const SearchBar = ({ selectedLocation, setSelectedLocation }) => {
       placeholder="Select A Location"
       value={selectedLocation}
       onChange={item => {
-        setSelectedLocation(item.id);
+        setSelectedLocation(item);
       }}
     />
   );
