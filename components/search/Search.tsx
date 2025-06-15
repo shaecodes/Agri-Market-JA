@@ -24,9 +24,7 @@ const locations = [
   { id: "17", name: "PORTMORE Hi-Lo" },
 ];
 
-const SearchBar = () => {
-  const [name, setName] = useState(null);
-
+const SearchBar = ({ selectedLocation, setSelectedLocation }) => {
   return (
     <Dropdown
       style={styles.dropdown}
@@ -35,18 +33,18 @@ const SearchBar = () => {
       inputSearchStyle={styles.inputSearchStyle}
       iconStyle={styles.iconStyle}
       data={locations}
-
       maxHeight={300}
       labelField="name"
       valueField="id"
       placeholder="Select A Location"
-      value={name}
+      value={selectedLocation}
       onChange={item => {
-        setName(item.id);
+        setSelectedLocation(item.id);
       }}
     />
   );
 };
+
 
 export default SearchBar;
 

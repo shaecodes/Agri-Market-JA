@@ -51,9 +51,7 @@ const commodities = [
 ];
 
 
-const SelectCommodity = () => {
-  const [selectedCommodity, setSelectedCommodity] = useState(null);
-
+const SelectCommodity = ({ selectedCommodity, setSelectedCommodity }) => {
   const renderItem = ({ item }) => (
     <TouchableOpacity
       style={[
@@ -62,7 +60,6 @@ const SelectCommodity = () => {
       ]}
       onPress={() => setSelectedCommodity(item.id)}
     >
-      {/* Displays image of commodity and the name */}
       <Image source={item.image} style={styles.commodityImage} />
       <Text style={styles.commodityName}>{item.name}</Text>
     </TouchableOpacity>
@@ -82,6 +79,7 @@ const SelectCommodity = () => {
     </View>
   );
 };
+
 
 const styles = StyleSheet.create({
   container: {
