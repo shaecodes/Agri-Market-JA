@@ -27,7 +27,6 @@ const ChartCompare = ({ title, location1, price1, location2, price2 }) => {
     barPercentage: 1.2,
   };
 
-  // Extract parts of the title
   const titleParts = title.match(
     /^Bar Chart for (.*?) at (.*?) and (.*)$/
   );
@@ -60,11 +59,11 @@ const ChartCompare = ({ title, location1, price1, location2, price2 }) => {
         chartConfig={chartConfig}
         fromZero
         showValuesOnTopOfBars
-        withInnerLines={false}
+        withInnerLines={true}
         yAxisLabel=""
         withVerticalLabels={true}
         yAxisSuffix=""
-        verticalLabelRotation ={10}
+        verticalLabelRotation ={5}
         style={{ borderRadius: 8, alignSelf: "center" }}
       />
     </View>

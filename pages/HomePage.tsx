@@ -45,24 +45,36 @@ const HomePage = () => {
         setSelectedLocation={setSelectedLocation}
       />
 
-      {selectedCommodity && selectedLocation && (
-        <TouchableOpacity style={styles.actionButton} onPress={handleButtonPress}>
-          <Text style={styles.buttonText}>See Prices</Text>
-        </TouchableOpacity>
-      )}
+      {selectedCommodity && selectedLocation && !showResults && (
+    <TouchableOpacity style={styles.actionButton} onPress={handleButtonPress}>
+      <Text style={styles.buttonText}>See Prices</Text>
+    </TouchableOpacity>
+  )}
 
-      {showResults && (
-        <>
-          <PriceCard
-            imageUrl={selectedCommodity.image}
-            name={selectedCommodity.name}
-            locationName={selectedLocation.name}
-            price={matchedPrice}
-          />
-        </>
-      )}
-    </ScrollView>
-  );
+  {showResults && (
+    <>
+      <PriceCard
+        imageUrl={selectedCommodity.image}
+        name={selectedCommodity.name}
+        locationName={selectedLocation.name}
+        price={matchedPrice}
+      />
+      <TouchableOpacity
+        style={styles.actionButton}
+        onPress={() => {
+          setSelectedCommodity(null);
+          setSelectedLocation(null);
+          setShowResults(false);
+          setMatchedPrice(null);
+        }}
+      >
+        <Text style={styles.buttonText}>Check New Location</Text>
+      </TouchableOpacity>
+    </>
+  )}
+
+      </ScrollView>
+    );
 };
 
 export default HomePage;
@@ -73,7 +85,7 @@ const styles = StyleSheet.create({
     flexGrow: 1,
     backgroundColor: COLORS.white,
     alignItems: "center",
-    paddingBottom: 200,
+    paddingBottom: 400,
   },
   title: {
     fontSize: SIZES.large,
