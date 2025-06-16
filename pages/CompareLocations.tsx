@@ -6,6 +6,7 @@ import { COLORS, SIZES } from "../constants";
 import SearchBar from "../components/search/Search";
 import SelectCommodity from "../components/selectcommodity/SelectCommodity";
 import CompareSearchBar from "../components/search/CompareSearch";
+import ChartCompare from "../components/compare_chart/CompareChart"
 import priceData from "../data/agriculture_data.json";
 
 const CompareLocations = () => {
@@ -79,6 +80,13 @@ const CompareLocations = () => {
             name={selectedCommodity.name}
             locationName={selectedLocation2.name}
             price={matchedPrice2}
+          />
+          <ChartCompare
+            title={`Bar Chart for ${selectedCommodity.name} at ${selectedLocation1.name} and ${selectedLocation2.name}`}
+            location1={selectedLocation1.name}
+            price1={matchedPrice1}
+            location2={selectedLocation2.name}
+            price2={matchedPrice2}
           />
         </>
       )}
