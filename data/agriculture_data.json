@@ -1,0 +1,5062 @@
+[
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"PAPINE Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"PAPINE Market",
+    "Price":440.0
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"PAPINE Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"PAPINE Market",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"PAPINE Market",
+    "Price":550.0
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"PAPINE Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"PAPINE Market",
+    "Price":770.0
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"PAPINE Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"PAPINE Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"PAPINE Market",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"PAPINE Market",
+    "Price":550.0
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"PAPINE Market",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"PAPINE Market",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"PAPINE Market",
+    "Price":1320.0
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"PAPINE Market",
+    "Price":330.0
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"PAPINE Market",
+    "Price":1320.0
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"PAPINE Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"PAPINE Market",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"PAPINE Market",
+    "Price":1100.0
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"PAPINE Market",
+    "Price":1100.0
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"PAPINE Market",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"PAPINE Market",
+    "Price":825.0
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"PAPINE Market",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"PAPINE Market",
+    "Price":330.0
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"PAPINE Market",
+    "Price":770.0
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"PAPINE Market",
+    "Price":2640.0
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"PAPINE Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"PAPINE Market",
+    "Price":605.0
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"PAPINE Market",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"PAPINE Market",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"PAPINE Market",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"PAPINE Market",
+    "Price":550.0
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"PAPINE Market",
+    "Price":1100.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"PAPINE Market",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"PAPINE Market",
+    "Price":1320.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"PAPINE Market",
+    "Price":1320.0
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"PAPINE Market",
+    "Price":770.0
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"PAPINE Market",
+    "Price":3300.0
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"PAPINE Market",
+    "Price":550.0
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"PAPINE Market",
+    "Price":1100.0
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"PAPINE Market",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"PAPINE Market",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"PAPINE Market",
+    "Price":770.0
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"PAPINE Market",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"CORONATION Market",
+    "Price":2200.0
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"CORONATION Market",
+    "Price":121.0
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"CORONATION Market",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"CORONATION Market",
+    "Price":440.0
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"CORONATION Market",
+    "Price":330.0
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"CORONATION Market",
+    "Price":550.0
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"CORONATION Market",
+    "Price":440.0
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"CORONATION Market",
+    "Price":550.0
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"CORONATION Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"CORONATION Market",
+    "Price":440.0
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"CORONATION Market",
+    "Price":220.0
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"CORONATION Market",
+    "Price":550.0
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"CORONATION Market",
+    "Price":275.0
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"CORONATION Market",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"CORONATION Market",
+    "Price":220.0
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"CORONATION Market",
+    "Price":1100.0
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"CORONATION Market",
+    "Price":550.0
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"CORONATION Market",
+    "Price":440.0
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"CORONATION Market",
+    "Price":330.0
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"CORONATION Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"CORONATION Market",
+    "Price":440.0
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"CORONATION Market",
+    "Price":385.0
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"CORONATION Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"CORONATION Market",
+    "Price":121.0
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"CORONATION Market",
+    "Price":440.0
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"CORONATION Market",
+    "Price":770.0
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"CORONATION Market",
+    "Price":440.0
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"CORONATION Market",
+    "Price":330.0
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"CORONATION Market",
+    "Price":440.0
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"CORONATION Market",
+    "Price":440.0
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"CORONATION Market",
+    "Price":330.0
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"CORONATION Market",
+    "Price":440.0
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"CORONATION Market",
+    "Price":440.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"CORONATION Market",
+    "Price":330.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"CORONATION Market",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"CORONATION Market",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"CORONATION Market",
+    "Price":440.0
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"CORONATION Market",
+    "Price":1650.0
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"CORONATION Market",
+    "Price":264.0
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"CORONATION Market",
+    "Price":330.0
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"CORONATION Market",
+    "Price":440.0
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"CORONATION Market",
+    "Price":605.0
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"CORONATION Market",
+    "Price":330.0
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"CORONATION Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"CROSS ROADS Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"CROSS ROADS Market",
+    "Price":550.0
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"CROSS ROADS Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"CROSS ROADS Market",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"CROSS ROADS Market",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"CROSS ROADS Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"CROSS ROADS Market",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"CROSS ROADS Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"CROSS ROADS Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"CROSS ROADS Market",
+    "Price":935.0
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"CROSS ROADS Market",
+    "Price":550.0
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"CROSS ROADS Market",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"CROSS ROADS Market",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"CROSS ROADS Market",
+    "Price":1760.0
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"CROSS ROADS Market",
+    "Price":330.0
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"CROSS ROADS Market",
+    "Price":1320.0
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"CROSS ROADS Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"CROSS ROADS Market",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"CROSS ROADS Market",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"CROSS ROADS Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"CROSS ROADS Market",
+    "Price":1210.0
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"CROSS ROADS Market",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"CROSS ROADS Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"CROSS ROADS Market",
+    "Price":220.0
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"CROSS ROADS Market",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"CROSS ROADS Market",
+    "Price":2420.0
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"CROSS ROADS Market",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"CROSS ROADS Market",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"CROSS ROADS Market",
+    "Price":770.0
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"CROSS ROADS Market",
+    "Price":605.0
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"CROSS ROADS Market",
+    "Price":605.0
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"CROSS ROADS Market",
+    "Price":660.0
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"CROSS ROADS Market",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"CROSS ROADS Market",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"CROSS ROADS Market",
+    "Price":770.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"CROSS ROADS Market",
+    "Price":770.0
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"CROSS ROADS Market",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"CROSS ROADS Market",
+    "Price":2640.0
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"CROSS ROADS Market",
+    "Price":440.0
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"CROSS ROADS Market",
+    "Price":770.0
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"CROSS ROADS Market",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"CROSS ROADS Market",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"CROSS ROADS Market",
+    "Price":770.0
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"CROSS ROADS Market",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":462.0
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"CROSS ROADS Sampars",
+    "Price":1268.75
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":815.0
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":495.0
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":1650.0
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"CROSS ROADS Sampars",
+    "Price":1192.5
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"CROSS ROADS Sampars",
+    "Price":1276.0
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":1320.0
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"CROSS ROADS Sampars",
+    "Price":900.0
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":495.0
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"CROSS ROADS Sampars",
+    "Price":2970.0
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"CROSS ROADS Sampars",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"CROSS ROADS Sampars",
+    "Price":900.0
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"CROSS ROADS Sampars",
+    "Price":900.0
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":495.0
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":2175.0
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":1120.0
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":844.25
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"CROSS ROADS Sampars",
+    "Price":825.0
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"CROSS ROADS Sampars",
+    "Price":null
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":701.88
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":1157.01
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":772.2
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":519.0
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":964.91
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":1157.89
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":659.01
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":1078.39
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":1933.33
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":427.5
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":771.93
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":884.02
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":1350.88
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":837.32
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":1052.63
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":573.07
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":701.75
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":789.47
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":789.47
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":614.94
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":1350.88
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":1402.87
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":1433.99
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":424.56
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":1073.01
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":1170.14
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":1183.3
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"CROSS ROADS Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":2800.0
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":580.0
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":480.0
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":925.0
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":750.0
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":1150.0
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":1980.0
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":1020.0
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":680.0
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":1016.0
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":600.0
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":310.0
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":890.0
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":1070.0
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":1250.0
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":890.0
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":960.0
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":620.0
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":860.0
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":860.0
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":510.0
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":1080.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":850.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":950.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":950.0
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":930.0
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":1990.0
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":950.0
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":850.0
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"WATERLOO ROAD Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":1881.7
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":498.5
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":592.9
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":null
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":498.5
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":1163.15
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":997.0
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":1163.1
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":1163.15
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":734.32
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":997.05
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":664.65
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":1495.37
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":498.55
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":1190.9
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":1163.1
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":null
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":1163.2
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":null
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":830.8
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":787.85
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":664.7
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":664.65
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":null
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":664.65
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":664.65
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":432.0
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":1495.6
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":989.05
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":1661.65
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":1661.65
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":1163.15
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":2508.1
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":null
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":null
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":906.3
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":907.0
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":null
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"NEW KINGSTON John R Wong",
+    "Price":null
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":1604.19
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":316.8
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":1027.52
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":598.4
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":288.0
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":852.45
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":681.96
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":1056.0
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":null
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":511.47
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":null
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":681.96
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":1363.92
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":257.73
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":1363.92
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":null
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":801.3
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":1408.0
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":null
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":1022.94
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":1193.43
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":528.0
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":852.45
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":2324.86
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":null
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":511.47
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":511.47
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":579.67
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":null
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":852.45
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":1860.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":1860.0
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":1022.94
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":2727.84
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":341.0
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":511.47
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":1193.43
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":null
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":750.15
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"HALF-WAY TREE Brooklyn",
+    "Price":null
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":1649.06
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":329.98
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":520.69
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":660.06
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":495.05
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":825.08
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":858.09
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":792.08
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":495.05
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":660.07
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":990.1
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":594.06
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":1485.15
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":371.8
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":1319.13
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":989.95
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":825.08
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":989.95
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":1199.94
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":726.07
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":787.58
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":561.06
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":660.07
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":1320.13
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":704.96
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":750.06
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":750.06
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":560.97
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":990.1
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":759.08
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":1800.18
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":1800.18
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":910.0
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":2029.7
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":363.04
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":363.04
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":899.96
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":857.96
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":975.1
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"WASHINGTON BOULEVARD Shopper's Fair",
+    "Price":1353.14
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":1775.8
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":330.0
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":556.6
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":659.98
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":825.0
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":858.0
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":1539.5
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":1154.94
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":989.95
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":594.0
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":428.98
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":1319.9
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":824.96
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":742.5
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":869.96
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":599.97
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":2144.9
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":1484.9
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":704.96
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":749.96
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":749.96
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":561.0
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":759.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":1649.9
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":1649.9
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":1055.95
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":2639.9
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":363.0
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":900.0
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":989.95
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"DUHANEY PARK Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"LIGUANEA General Foods",
+    "Price":3060.0
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":561.0
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"LIGUANEA General Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"LIGUANEA General Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"LIGUANEA General Foods",
+    "Price":429.0
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":935.0
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":1496.0
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"LIGUANEA General Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":935.0
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":1496.0
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":1496.0
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":285.0
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"LIGUANEA General Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":935.0
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"LIGUANEA General Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"LIGUANEA General Foods",
+    "Price":1309.0
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":748.0
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":760.0
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"LIGUANEA General Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":561.0
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":748.0
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"LIGUANEA General Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"LIGUANEA General Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"LIGUANEA General Foods",
+    "Price":748.0
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"LIGUANEA General Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"LIGUANEA General Foods",
+    "Price":594.0
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"LIGUANEA General Foods",
+    "Price":594.0
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":561.0
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":1683.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":1683.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":1683.0
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":1232.0
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":4080.0
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":374.0
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":748.0
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":935.0
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"LIGUANEA General Foods",
+    "Price":1122.0
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"LIGUANEA General Foods",
+    "Price":1122.0
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"LIGUANEA General Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":639.5
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":510.1
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":825.1
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":729.1
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":825.1
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":1155.12
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":660.1
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":594.1
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":1485.2
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":1320.1
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":990.1
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":870.09
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":561.1
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":2145.2
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":750.08
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":750.08
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":561.1
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":1155.1
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":759.1
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":2250.2
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":363.0
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":900.1
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":825.1
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":900.1
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"LIGUANEA Shopper's Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":1587.0
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":495.0
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":579.0
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":594.0
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":1188.0
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":730.0
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":1485.0
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":495.0
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":825.0
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":1154.9
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":750.0
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":825.0
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":840.0
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":840.0
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":495.0
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":1650.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":2969.9
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"BARBICAN ROAD Loshusan",
+    "Price":null
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":3060.0
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":1157.1
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":772.2
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":519.0
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":964.91
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":1446.28
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":1157.89
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":659.01
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":1078.39
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":1933.33
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":1281.0
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":929.82
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":1350.88
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":701.75
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":789.47
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":789.4
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":614.04
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":1350.88
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":1402.87
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":3454.55
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":3454.55
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":1236.96
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":4796.83
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":424.56
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":1073.01
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":1170.14
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":1183.37
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"BARBICAN ROAD Hi-Lo",
+    "Price":1929.82
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":3060.89
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":701.88
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":1157.01
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":772.2
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":519.0
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":1350.88
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":1446.28
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":1157.89
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":659.01
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":1158.01
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":1078.39
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":1933.33
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":1698.25
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":929.82
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":1350.88
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":857.32
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":1052.53
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":573.07
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":701.75
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":825.0
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":789.47
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":789.47
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":614.04
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":1350.88
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":1402.87
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":3454.55
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":3454.55
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":1232.96
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":4460.55
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":424.56
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":928.69
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":1073.01
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":1170.14
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":1183.37
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"CONSTANT SPRING Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":3000.0
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":495.0
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":1250.0
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":null
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":null
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":null
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":815.0
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":null
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":1154.9
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":495.0
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":900.0
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":null
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":2700.0
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":495.0
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":null
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":null
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":1155.0
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":1276.0
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":null
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":null
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":null
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":495.0
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":3527.36
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":1155.0
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":1155.0
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":495.0
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":1100.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":3802.5
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":3802.5
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":1320.0
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":2175.0
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":null
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":null
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":1440.0
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":825.0
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":924.99
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"CONSTANT SPRING Select Grocers",
+    "Price":null
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":1888.1
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":592.3
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":858.0
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":792.0
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":1154.91
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":989.95
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":1484.9
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":1319.9
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":824.96
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":839.96
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":561.0
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":1484.9
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":1484.9
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":561.0
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":1154.94
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":759.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":1799.9
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":1169.94
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":900.0
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":1154.9
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"HARBOUR VIEW Shoppers Fair",
+    "Price":890.96
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":2480.18
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":423.28
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":925.93
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":554.4
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":550.0
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":1155.0
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":925.93
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":1965.0
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":925.93
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":617.29
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":992.08
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":880.0
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":1586.95
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":323.18
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":1155.0
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":925.93
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":1388.9
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":1320.0
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":826.73
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":529.0
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":825.0
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":658.0
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":676.41
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":676.41
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":496.05
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":991.85
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":925.93
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":924.0
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":2816.0
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":330.7
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":826.72
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":727.35
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":987.66
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":992.0
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"RED HILLS ROAD Lee's Food Fair",
+    "Price":null
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":null
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":999.0
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":null
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":449.0
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":null
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":810.19
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":734.56
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":1269.0
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":null
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":449.0
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":null
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":1069.0
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":1279.0
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":null
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":null
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":829.0
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":499.68
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":1570.0
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":849.0
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":null
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":661.02
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":661.02
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":439.0
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":566.33
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":758.0
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":579.0
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":null
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":324.5
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":324.5
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":399.0
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":879.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":929.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":1979.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":1979.0
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":766.33
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":null
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":569.0
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":766.0
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":null
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":599.0
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":null
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"RED HILLS ROAD Price Smart",
+    "Price":null
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":1525.0
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":330.0
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":481.8
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":659.98
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":405.0
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":825.0
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":858.0
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":825.0
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":1154.94
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":594.0
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":1484.9
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":428.98
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":1319.9
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":825.0
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":1050.0
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":750.0
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":787.49
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":450.0
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":494.98
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":494.98
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":759.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":1319.9
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":1799.9
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":1169.94
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":2549.9
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":363.0
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":545.97
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":900.0
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":824.96
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"PORTMORE Progressive Foods",
+    "Price":null
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"PORTMORE Mega Mart",
+    "Price":2800.0
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":580.0
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"PORTMORE Mega Mart",
+    "Price":1360.0
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"PORTMORE Mega Mart",
+    "Price":627.0
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"PORTMORE Mega Mart",
+    "Price":480.0
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":925.0
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":750.0
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"PORTMORE Mega Mart",
+    "Price":1980.0
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":680.0
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":1016.0
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":600.0
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":1380.0
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":310.0
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"PORTMORE Mega Mart",
+    "Price":1130.0
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":680.0
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"PORTMORE Mega Mart",
+    "Price":850.0
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"PORTMORE Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":950.0
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":890.0
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"PORTMORE Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":520.0
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":620.0
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"PORTMORE Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"PORTMORE Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"PORTMORE Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"PORTMORE Mega Mart",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"PORTMORE Mega Mart",
+    "Price":860.0
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"PORTMORE Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":510.0
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":1080.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":850.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":950.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":950.0
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":930.0
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":1990.0
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":275.0
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":950.0
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"PORTMORE Mega Mart",
+    "Price":850.0
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"PORTMORE Mega Mart",
+    "Price":930.0
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"PORTMORE Mega Mart",
+    "Price":null
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"PORTMORE Joong",
+    "Price":2250.0
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"PORTMORE Joong",
+    "Price":660.0
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"PORTMORE Joong",
+    "Price":1167.0
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"PORTMORE Joong",
+    "Price":594.0
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"PORTMORE Joong",
+    "Price":null
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"PORTMORE Joong",
+    "Price":330.0
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"PORTMORE Joong",
+    "Price":675.0
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"PORTMORE Joong",
+    "Price":null
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"PORTMORE Joong",
+    "Price":null
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"PORTMORE Joong",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"PORTMORE Joong",
+    "Price":null
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"PORTMORE Joong",
+    "Price":null
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"PORTMORE Joong",
+    "Price":594.0
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"PORTMORE Joong",
+    "Price":1485.0
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"PORTMORE Joong",
+    "Price":null
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"PORTMORE Joong",
+    "Price":1122.0
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"PORTMORE Joong",
+    "Price":null
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"PORTMORE Joong",
+    "Price":825.0
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"PORTMORE Joong",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"PORTMORE Joong",
+    "Price":null
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"PORTMORE Joong",
+    "Price":825.0
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"PORTMORE Joong",
+    "Price":957.0
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"PORTMORE Joong",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"PORTMORE Joong",
+    "Price":330.0
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"PORTMORE Joong",
+    "Price":750.0
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"PORTMORE Joong",
+    "Price":2100.0
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"PORTMORE Joong",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"PORTMORE Joong",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"PORTMORE Joong",
+    "Price":705.0
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"PORTMORE Joong",
+    "Price":675.0
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"PORTMORE Joong",
+    "Price":null
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"PORTMORE Joong",
+    "Price":396.0
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"PORTMORE Joong",
+    "Price":1320.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"PORTMORE Joong",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"PORTMORE Joong",
+    "Price":1485.0
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"PORTMORE Joong",
+    "Price":1485.0
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"PORTMORE Joong",
+    "Price":1155.0
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"PORTMORE Joong",
+    "Price":null
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"PORTMORE Joong",
+    "Price":330.0
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"PORTMORE Joong",
+    "Price":null
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"PORTMORE Joong",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"PORTMORE Joong",
+    "Price":825.0
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"PORTMORE Joong",
+    "Price":990.0
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"PORTMORE Joong",
+    "Price":null
+  },
+  {
+    "Commodity":"Broccoli Imported",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":3060.89
+  },
+  {
+    "Commodity":"Cabbage (Green) Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":745.34
+  },
+  {
+    "Commodity":"Cabbage (Red) Imported",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":1157.01
+  },
+  {
+    "Commodity":"Callaloo Shredded",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":569.65
+  },
+  {
+    "Commodity":"Callaloo Whole",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":519.0
+  },
+  {
+    "Commodity":"Cantaloupe Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Carrot Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":964.91
+  },
+  {
+    "Commodity":"Cauliflower Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Cauliflower Imported",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":3091.0
+  },
+  {
+    "Commodity":"Coco Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":1157.88
+  },
+  {
+    "Commodity":"Cucumber Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":659.01
+  },
+  {
+    "Commodity":"Dasheen Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":1158.01
+  },
+  {
+    "Commodity":"Escallion Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":1078.39
+  },
+  {
+    "Commodity":"Ginger Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":1933.33
+  },
+  {
+    "Commodity":"Green Banana Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":427.5
+  },
+  {
+    "Commodity":"Gungo Peas Dry",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":1698.25
+  },
+  {
+    "Commodity":"Honeydew Melon Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Irish Potato Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":884.02
+  },
+  {
+    "Commodity":"Lettuce Iceberg (Local)",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":1350.88
+  },
+  {
+    "Commodity":"Lettuce Romaine (Local)",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":1445.61
+  },
+  {
+    "Commodity":"Okra Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":837.32
+  },
+  {
+    "Commodity":"Onion Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":1052.63
+  },
+  {
+    "Commodity":"Onion Imported",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Pak Choi Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":573.07
+  },
+  {
+    "Commodity":"Papaya Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":701.75
+  },
+  {
+    "Commodity":"Pepper (Hot) Scotch Bonnet",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Pepper (Hot) West Indian Red",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple Cow Boy",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Pineapple MD 2",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":825.0
+  },
+  {
+    "Commodity":"Plantain Ripe",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":789.47
+  },
+  {
+    "Commodity":"Plantain Green",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Pumpkin Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":614.04
+  },
+  {
+    "Commodity":"String Bean Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Sweet Pepper (Green) Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":1402.87
+  },
+  {
+    "Commodity":"Sweet Pepper (Red) Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":3454.55
+  },
+  {
+    "Commodity":"Sweet Pepper (Yellow) Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":3454.55
+  },
+  {
+    "Commodity":"Sweet Potato Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":1433.99
+  },
+  {
+    "Commodity":"Thyme Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":4466.55
+  },
+  {
+    "Commodity":"Tomatoes(Plummy) Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Tomatoes(Salad) Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":null
+  },
+  {
+    "Commodity":"Turmeric Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":1073.01
+  },
+  {
+    "Commodity":"Watermelon Local",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":1170.14
+  },
+  {
+    "Commodity":"Yam Yellow",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":1183.37
+  },
+  {
+    "Commodity":"Yam Negro",
+    "Market":"PORTMORE Hi-Lo",
+    "Price":null
+  }
+]

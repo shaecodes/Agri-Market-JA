@@ -7,17 +7,30 @@ import { COLORS, SIZES } from "../constants";
 import SearchBar from "../components/search/Search";
 import Carousel from "../components/carousel/Carousel";
 import SelectCommodity from "../components/selectcommodity/SelectCommodity";
+import priceData from "../data/agriculture_data.json";
 
 const HomePage = () => {
   const [selectedCommodity, setSelectedCommodity] = useState(null);
   const [selectedLocation, setSelectedLocation] = useState(null);
-  const [showPrices, setShowPrices] = useState(false);
   const [showResults, setShowResults] = useState(false);
+  const [matchedPrice, setMatchedPrice] = useState(null);
 
   const handleButtonPress = () => {
-    console.log("Do Action for:", selectedCommodity, selectedLocation);
-    setShowResults(true);
-  };
+      const match = priceData.find(
+        item =>
+          item.Commodity === selectedCommodity.name &&
+          item.Market === selectedLocation.name
+      );
+
+      if (match && match.Price !== null) {
+        setMatchedPrice(match.Price);
+      } else {
+        setMatchedPrice(0);
+      }
+
+      setShowResults(true);
+    };
+
 
   return (
     <ScrollView contentContainerStyle={styles.container}>
@@ -42,11 +55,10 @@ const HomePage = () => {
         <>
           <PriceCard
             imageUrl={selectedCommodity.image}
-            name = {selectedCommodity.name}
+            name={selectedCommodity.name}
             locationName={selectedLocation.name}
-            price={550}
+            price={matchedPrice}
           />
-
         </>
       )}
     </ScrollView>

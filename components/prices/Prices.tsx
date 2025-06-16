@@ -30,7 +30,7 @@ const PriceCard: React.FC<PriceCardProps> = ({
       <View style={styles.priceRow}>
         {/* Highest Price */}
         <View style={styles.priceBox}>
-          <Text style={styles.label}>Highest Price</Text>
+          <Text style={styles.label}>Price</Text>
           <View style={[styles.priceTag, styles.greenBackground]}>
             <Text style={styles.greenPrice}>${price.toFixed(2)}</Text>
             <ArrowUpRight size={18} color="#15803d" />

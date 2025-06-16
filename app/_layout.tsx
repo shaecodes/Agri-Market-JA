@@ -37,7 +37,7 @@ const Layout = () => {
       <Tabs
         screenOptions={{
           headerShown: false,
-          tabBarStyle: { display: 'none' }, // hide default tab bar
+          tabBarStyle: { display: 'none' }, 
         }}
       >
         <Tabs.Screen name="index" />
