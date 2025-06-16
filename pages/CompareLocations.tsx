@@ -7,7 +7,7 @@ import SearchBar from "../components/search/Search";
 import SelectCommodity from "../components/selectcommodity/SelectCommodity";
 import CompareSearchBar from "../components/search/CompareSearch";
 import ChartCompare from "../components/compare_chart/CompareChart"
-import priceData from "../data/agriculture_data.json";
+import priceData from "../data/agriculture_data_april_12_25.json";
 
 const CompareLocations = () => {
   const [selectedCommodity, setSelectedCommodity] = useState(null);

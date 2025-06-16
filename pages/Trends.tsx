@@ -6,7 +6,7 @@ import PriceCard from "../components/prices/Prices";
 import SearchBar from "../components/search/Search";
 import Carousel from "../components/carousel/Carousel";
 import SelectCommodity from "../components/selectcommodity/SelectCommodity";
-import priceData from "../data/agriculture_data.json";
+import priceData from "../data/agriculture_data_april_12_25.json";
 
 const Trends = () => {
   const [selectedCommodity, setSelectedCommodity] = useState(null);
