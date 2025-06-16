@@ -92,7 +92,7 @@ export default CompareLocations;
 const styles = StyleSheet.create({
     container: {
     paddingTop: 100,
-    paddingBottom: 200,
+    paddingBottom: 400,
     backgroundColor: COLORS.white,
     alignItems: "center",
   },
