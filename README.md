@@ -9,7 +9,7 @@ This data provides significant benefits for various stakeholders:
 - For Government Agencies: The information is crucial for tracking inflation and assessing food affordability, aiding in economic monitoring and policy-making.
 - For Farmers & Suppliers: It empowers them to price their goods competitively and strategically choose selling locations based on real-time market behavior.
 
-# The Challenge & Our Solution
+## The Challenge & Our Solution
 Despite its immense value, most Jamaicans are unaware of this readily available and useful document.
 
 AgriMarketJA aims to bridge this gap. It's your digital companion, providing live price comparisons directly from the CAC data, along with weekly trends broken down by market and commodity.
