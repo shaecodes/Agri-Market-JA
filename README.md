@@ -1,20 +1,15 @@
-# Expo Router Example
+# AgriMarketJA
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+The Consumer Affairs Commission releases a spreadsheet document that shows the prices for over forty (40) commodities at over twenty (20) locations in the Kingston Municipality Area weekly.
 
-## 🚀 How to use
+## Why do they do this?
+- Individuals and businesses buy in bulk and would like to view availability of commodities as well as compare prices at different locations
+- Vendors know that prices are publicly compared which discourages price gouging and inconsistency with nearby sellers
+- Helps government agencies track inflation and food affordability.
+- Empowers farmers and vendors to price their goods competitively and decide where to sell based on market behaviour. 
 
-```sh
-npx create-expo-app -e with-router
-```
+Unfortunately, most Jamaicans aren't away that this useful document exists.
 
-## Deploy
+So meet AgriMarketJA, your digital companion with live price comparison from CAC and weekly tends by market and commodity.
 
-Deploy on all platforms with Expo Application Services (EAS).
-
-- Deploy the website: `npx eas-cli deploy` — [Learn more](https://docs.expo.dev/eas/hosting/get-started/)
-- Deploy on iOS and Android using: `npx eas-cli build` — [Learn more](https://expo.dev/eas)
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+Your Market, Your Price, Your Power - AgriMarketJA
