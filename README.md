@@ -1,15 +1,17 @@
 # AgriMarketJA
+The Consumer Affairs Commission (CAC) in Jamaica publishes a weekly spreadsheet detailing prices for over 40 commodities across more than 20 locations within the Kingston Municipality Area.
 
-The Consumer Affairs Commission releases a spreadsheet document that shows the prices for over forty (40) commodities at over twenty (20) locations in the Kingston Municipality Area weekly.
+## Why is This Information Important?
+This data provides significant benefits for various stakeholders:
 
-## Why do they do this?
-- Individuals and businesses buy in bulk and would like to view availability of commodities as well as compare prices at different locations
-- Vendors know that prices are publicly compared which discourages price gouging and inconsistency with nearby sellers
-- Helps government agencies track inflation and food affordability.
-- Empowers farmers and vendors to price their goods competitively and decide where to sell based on market behaviour. 
+- For Consumers & Businesses: It enables informed purchasing decisions, allowing individuals and businesses to compare prices and check commodity availability across different locations for bulk buying.
+- For Vendors: Public access to pricing data discourages price gouging and promotes competitive and consistent pricing among nearby sellers.
+- For Government Agencies: The information is crucial for tracking inflation and assessing food affordability, aiding in economic monitoring and policy-making.
+- For Farmers & Suppliers: It empowers them to price their goods competitively and strategically choose selling locations based on real-time market behavior.
 
-Unfortunately, most Jamaicans aren't away that this useful document exists.
+# The Challenge & Our Solution
+Despite its immense value, most Jamaicans are unaware of this readily available and useful document.
 
-So meet AgriMarketJA, your digital companion with live price comparison from CAC and weekly tends by market and commodity.
+AgriMarketJA aims to bridge this gap. It's your digital companion, providing live price comparisons directly from the CAC data, along with weekly trends broken down by market and commodity.
 
 Your Market, Your Price, Your Power - AgriMarketJA
