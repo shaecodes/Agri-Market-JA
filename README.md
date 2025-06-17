@@ -15,3 +15,5 @@ Despite its immense value, most Jamaicans are unaware of this readily available 
 AgriMarketJA aims to bridge this gap. It's your digital companion, providing live price comparisons directly from the CAC data, along with weekly trends broken down by market and commodity.
 
 **Your Market, Your Price, Your Power - AgriMarketJA**
+
+![Image](https://github.com/user-attachments/assets/c4a3ea66-b0b2-44f4-b4e8-94c2c1ce556d)
